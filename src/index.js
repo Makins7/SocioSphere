@@ -14,6 +14,10 @@ import SocialReducer from './redux/SocialReducer';
 import Login from './pages/Login';
 import { combineReducers } from 'redux';
 
+import 'bootstrap/dist/css/bootstrap.min.css'; // install bootstrap
+
+
+
 const MyStore = createStore(
   // 1st argument: Reducer(s)
   SocialReducer,
