@@ -4,7 +4,7 @@ import ImageCard from "./ImageCard";
 import { Card, CardHeader, CardBody, Alert } from "reactstrap";
 
 
-// GalleryComponent: This is the main component that sets up the layout for your gallery.
+// GalleryComponent: This is the main component that sets up the layout for the gallery.
 
 
 const GalleryComponent = () => {
